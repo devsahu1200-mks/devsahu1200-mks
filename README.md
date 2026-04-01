@@ -5,7 +5,7 @@
 - 🤖 Building smart systems that connect the physical and digital world
 - 🌱 Currently learning: **Machine Learning, Embedded Systems, Cloud (AWS)**
 - 💡 Interested in: **Smart Agriculture, Automation, Robotics**
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: your-devsahu1200@gmail.com
 
 ---
 
